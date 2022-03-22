@@ -1,5 +1,7 @@
 # 234124-Introduction-to-System-Programming-C-aasignment
 
+For the full instructions, view the PDF 'HW1- instructions MATAM'
+
 - an ADT manually built for Dictionary/Map
 
 - built-in features include: mapCreate, mapDestroy, mapCopy, mapGetSize, mapContains,
